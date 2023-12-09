@@ -1,2 +1,2 @@
 # Aoc23
-Repository to hold the solutions for the Advent of Code puzzels
+Repository to hold my solutions for the Advent of Code puzzels
